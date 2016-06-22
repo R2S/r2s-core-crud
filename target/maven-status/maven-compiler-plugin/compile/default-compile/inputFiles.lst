@@ -1,0 +1,4 @@
+/home/raphael/git/github/r2s-core-crud/src/main/java/biz/r2s/core/crud/model/BaseModel.java
+/home/raphael/git/github/r2s-core-crud/src/main/java/biz/r2s/core/crud/dao/GenericDao.java
+/home/raphael/git/github/r2s-core-crud/src/main/java/biz/r2s/core/crud/service/GenericService.java
+/home/raphael/git/github/r2s-core-crud/src/main/java/biz/r2s/core/crud/controller/GenericController.java
